@@ -1,0 +1,4 @@
+.cover {
+    padding: 69px calc((48 * 100%) / 1280) 0;
+    min-height: 740px;
+}

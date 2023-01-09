@@ -1,0 +1,14 @@
+.cover__link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 32px;
+    min-height: 740px;
+    position: relative;
+
+}
+
+.cover__link:hover .cover__overlay {
+    opacity: 50%;
+}
