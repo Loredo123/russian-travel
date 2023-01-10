@@ -1,8 +1,17 @@
 .cover__subtitle {
-    width: calc((360 * 100%) / 1184);
+    width: 360px;
     margin: 0;
     font-size: 18px;
     font-weight: 400;
     line-height: 22px;
     text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+    .cover__subtitle {
+        width: 288px;
+        font-size: 14px;
+        line-height: 16px;
+
+    }
 }

@@ -3,3 +3,16 @@
     grid-template-columns: 1fr 1fr;
     gap: 48px 32px;
 }
+
+@media screen and (max-width: 1023px) {
+    .card {
+        column-gap: 28px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .card {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+}
