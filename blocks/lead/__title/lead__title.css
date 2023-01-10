@@ -2,6 +2,7 @@
     font-size: 96px;
     font-weight: 900;
     line-height: 100px;
+<<<<<<< HEAD
     max-width: 720px;
     margin: 0;
 }
@@ -13,4 +14,8 @@
         font-weight: 900;
         line-height: 44px;
     }
+=======
+    width: calc((720 / 1280) * 100vw);
+    margin: auto;
+>>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

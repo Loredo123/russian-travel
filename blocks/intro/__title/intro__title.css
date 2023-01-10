@@ -1,9 +1,13 @@
 .intro__title {
+<<<<<<< HEAD
     width: 690px;
+=======
+>>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
     font-size: 54px;
     font-weight: 900;
     line-height: 58px;
     text-align: left;
+<<<<<<< HEAD
     margin: 0;
 }
 
@@ -13,4 +17,7 @@
         line-height: 35px;
         width: 100%;
     }
+=======
+
+>>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

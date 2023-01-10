@@ -1,10 +1,16 @@
 .cover__subtitle {
+<<<<<<< HEAD
     width: 360px;
     margin: 0;
+=======
+    width: calc((360 * 100%) / 1184);
+    margin: auto;
+>>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
     font-size: 18px;
     font-weight: 400;
     line-height: 22px;
     text-align: center;
+<<<<<<< HEAD
 }
 
 @media screen and (max-width: 767px) {
@@ -14,4 +20,6 @@
         line-height: 16px;
 
     }
+=======
+>>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

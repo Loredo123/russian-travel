@@ -5,7 +5,10 @@
 @import url(./blocks/link/_opacity/link_opacity.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__lang-link/header__lang-link.css);
+<<<<<<< HEAD
 @import url(./blocks/header/__logo/header__logo.css);
+=======
+>>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 @import url(./blocks/lead/lead.css);
 @import url(./blocks/lead/__caption/lead__caption.css);
 @import url(./blocks/lead/__image/lead__image.css);
@@ -35,5 +38,8 @@
 @import url(./blocks/cover/__link/cover__link.css);
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__link/footer__link.css);
+<<<<<<< HEAD
 @import url(./blocks/footer/__links/footer__links.css);
+=======
+>>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 @import url(./blocks/footer/__copyright/footer__copyright.css);
