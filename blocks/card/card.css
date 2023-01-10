@@ -2,7 +2,6 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 48px 32px;
-<<<<<<< HEAD
 }
 
 @media screen and (max-width: 1023px) {
@@ -16,6 +15,4 @@
         grid-template-columns: 1fr;
         gap: 32px;
     }
-=======
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

@@ -1,17 +1,12 @@
 .card__url-heading {
     font-size: 12px;
     font-weight: 400;
-<<<<<<< HEAD
     line-height: 20.4px;
-=======
-    line-height: 12px;
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
     letter-spacing: 2px;
     color: #aaa;
     margin-bottom: 12px;
     text-transform: uppercase;
 
-<<<<<<< HEAD
 }
 
 @media screen and (max-width: 1023px) {
@@ -19,6 +14,4 @@
         line-height: 12px;
     }
 
-=======
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

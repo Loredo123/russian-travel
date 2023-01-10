@@ -2,13 +2,10 @@
     display: flex;
     flex-direction: column;
     justify-content: end;
-<<<<<<< HEAD
 }
 
 @media screen and (max-width: 767px) {
     .card__website {
         padding: 0 16px;
     }
-=======
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

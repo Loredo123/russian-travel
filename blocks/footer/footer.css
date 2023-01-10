@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-<<<<<<< HEAD
     padding: 0 48px 24px;
 }
 
@@ -19,7 +18,4 @@
         align-items: start;
         gap: 48px;
     }
-=======
-    padding: 92px 48px 24px;
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

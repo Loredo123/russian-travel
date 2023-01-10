@@ -3,7 +3,6 @@
     display: flex;
     justify-content: space-between;
     align-items: end;
-<<<<<<< HEAD
 }
 
 @media screen and (max-width: 1023px) {
@@ -16,6 +15,4 @@
     .header {
         padding: 16px 16px 0;
     }
-=======
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }

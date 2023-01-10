@@ -1,5 +1,4 @@
 .cover__link {
-<<<<<<< HEAD
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -8,17 +7,10 @@
     min-height: 740px;
     position: relative;
 
-=======
-    display: block;
-    height: 740px;
-    position: relative;
-    overflow: auto;
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }
 
 .cover__link:hover .cover__overlay {
     opacity: 50%;
-<<<<<<< HEAD
 }
 
 @media screen and (max-width: 1279px) {
@@ -40,6 +32,4 @@
         min-height: 200px;
     }
 
-=======
->>>>>>> e56df6657756f89dd898768933b2788fd3c6512b
 }
