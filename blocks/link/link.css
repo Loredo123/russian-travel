@@ -1,4 +1,11 @@
 .link {
+    cursor: pointer;
     color: #fff;
     text-decoration: none;
+    transition: opacity 0.8s linear;
+}
+
+
+.link:hover {
+    opacity: 0.5;
 }
